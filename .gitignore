@@ -1,5 +1,11 @@
+# Log files
 *.log
+# Build folders
 **/bin
 **/obj
+# Visual Studio temp files
 **/.vs
+# Mac OS tmp files
 .DS_Store
+# Temp folder
+**/tmp
